@@ -1,0 +1,4 @@
+C:\Users\Štefan\Dropbox\Projects\MS Visual C sharp2\C-ssh\DbORM\bin\Debug\DbORM.dll
+C:\Users\Štefan\Dropbox\Projects\MS Visual C sharp2\C-ssh\DbORM\bin\Debug\DbORM.pdb
+C:\Users\Štefan\Dropbox\Projects\MS Visual C sharp2\C-ssh\DbORM\obj\Debug\DbORM.dll
+C:\Users\Štefan\Dropbox\Projects\MS Visual C sharp2\C-ssh\DbORM\obj\Debug\DbORM.pdb

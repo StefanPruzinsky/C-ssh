@@ -1,0 +1,6 @@
+C:\Users\Štefan\Dropbox\Projects\MS Visual C sharp2\C-ssh\C-sshRPiSide\bin\Debug\C-sshRPiSide.exe.config
+C:\Users\Štefan\Dropbox\Projects\MS Visual C sharp2\C-ssh\C-sshRPiSide\bin\Debug\C-sshRPiSide.exe
+C:\Users\Štefan\Dropbox\Projects\MS Visual C sharp2\C-ssh\C-sshRPiSide\bin\Debug\C-sshRPiSide.pdb
+C:\Users\Štefan\Dropbox\Projects\MS Visual C sharp2\C-ssh\C-sshRPiSide\obj\Debug\C-sshRPiSide.exe
+C:\Users\Štefan\Dropbox\Projects\MS Visual C sharp2\C-ssh\C-sshRPiSide\obj\Debug\C-sshRPiSide.pdb
+C:\Users\Štefan\Dropbox\Projects\MS Visual C sharp2\C-ssh\C-sshRPiSide\obj\Debug\C-sshRPiSide.csprojResolveAssemblyReference.cache
